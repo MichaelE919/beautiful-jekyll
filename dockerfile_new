@@ -1,11 +1,11 @@
 FROM ruby:latest
 LABEL maintainer="Michael Eichenberger"
 
-RUN mkdir -p /home/jekyll \
-groupadd -rg 1000 jekyll \
-useradd -rg jekyll -u 1000 -d /home/jekyll jekyll \
-chown jekyll:jekyll /home/jekyll \
-gem install jekyll
+RUN mkdir -p /home/jekyll
+RUN groupadd -rg 1000 jekyll
+RUN useradd -rg jekyll -u 1000 -d /home/jekyll jekyll
+RUN chown jekyll:jekyll /home/jekyll
+RUN gem install jekyll
 
 RUN gem install bundler
 RUN gem install execjs
@@ -21,13 +21,12 @@ RUN gem install nokogiri
 RUN gem install html-pipeline
 RUN gem install jekyll-watch
 
-VOLUME /home/jekyll
+ADD ./ /home/Jekyll
 
 WORKDIR /home/Jekyll
-COPY Gemfile /home/jekyll
-COPY Gemfile.lock /home/jekyll
-RUN bundle install
 
 EXPOSE 4000
 
-ENTRYPOINT ["jekyll", "serve"]
+ENTRYPOINT ["bash", "-c"]
+CMD ["bundle install \
+&& bundle exec jekyll serve --host 0.0.0.0"]
