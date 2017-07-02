@@ -18,8 +18,6 @@ RUN gem install nokogiri
 RUN gem install html-pipeline
 RUN gem install jekyll-watch
 
-
-
 RUN mkdir -p /app
 ADD ./ /app
 
