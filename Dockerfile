@@ -29,4 +29,5 @@ EXPOSE 4000
 
 ENTRYPOINT ["bash", "-c"]
 CMD ["bundle install \
-&& bundle exec jekyll serve --host 0.0.0.0"]
+&& bundle exec jekyll serve --host 0.0.0.0 \
+--force_polling --watch"]
