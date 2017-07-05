@@ -31,3 +31,9 @@ ENTRYPOINT ["bash", "-c"]
 CMD ["bundle install \
 && bundle exec jekyll serve --host 0.0.0.0 \
 --force_polling --watch"]
+
+# to build:
+# docker build -t michaele919/jekyll:1.0 .
+
+# suggested run command:
+# docker run --name jekyll -p 4000:4000 -v `pwd`:/home/Jekyll michaele919/jekyll:1.0
