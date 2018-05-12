@@ -8,7 +8,7 @@ title: About me
 > -- <cite> Elliot Alderson, Mr. Robot, Season 1, Ep. 7
 
 
-My name is Michael Eichenberger, married to Karly for 12 years. Father to Emma, who is 6, and Kayla, who is 3. We also have two dogs: a Dachshund named Hans and a Lab/Great Dane mix name Dude. Actually, Hans' full name is Hansen Franzen von Liechtenstein. We sometimes call him Hansie. Dude's name is Dude because we couldn't think of anything else to call him. (And he looks like a Dude.) On the topic of nicknames, we sometimes call Kayla "Keka," which is what she calls herself. I've called Emma "Baby" ever since she was one, although I think she is now tired of it. (Edit- I rarely call her that anymore.)
+My name is Michael Eichenberger, married to Karly for 12 years. Father to Emma, who is 6, and Kayla, who is 3. We also have two dogs: a Dachshund named Hans and a Lab/Great Dane mix name Dude. Actually, Hans' full name is Hans N Franz von Liechtenstein. We sometimes call him Hansie. Dude's name is Dude because we couldn't think of anything else to call him. (And he looks like a Dude.) On the topic of nicknames, we sometimes call Kayla "Keka," which is what she calls herself. I've called Emma "Baby" ever since she was one, although I think she is now tired of it. (Edit- I rarely call her that anymore.)
 
 We live in Round Rock, Texas, 20 miles north of the state's capital, Austin. Karly and I are both from California. I was born and raised in San Jose. We moved to Texas 6 months after getting married.
 
