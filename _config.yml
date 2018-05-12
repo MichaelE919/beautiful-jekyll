@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: The Rambler Blog
+title: Ramblings of a Wannabe Data Scientist
 
 # Short description of your site
-description: Politics, Python, and Everything Else!
+description: Python, Data Science, and Everything Else!
 
 # --- Navigation bar options --- #
 
@@ -51,7 +51,7 @@ author:
   twitter: MichaelE919   # eg. daattali
 #  reddit: yourname    # eg. daattali
 #  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: michael-eichenberger-329a287  # eg. daattali
+  linkedin: michael-eichenberger  # eg. daattali
 #  xing: yourname      # eg. daattali
   stackoverflow: MichaelE919  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
@@ -87,7 +87,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ramblerblog.gq"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "michaele919.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
