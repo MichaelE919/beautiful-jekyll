@@ -11,7 +11,7 @@ I'm moving on with my life.
 
 I'm learning something else to be passionate about and ramble on about.
 
-That something else is [Python](python.org) and all things [machine learning](https://en.wikipedia.org/wiki/Machine_learning). That's what this *new* blog is going to be about. This blog will chronicle my path into machine learning and data science. I've been working through a few tutorials but now it's time to grab hold of a few projects to call my own and actually make a difference.
+That something else is [Python](https://www.python.org/) and all things [machine learning](https://en.wikipedia.org/wiki/Machine_learning). That's what this *new* blog is going to be about. This blog will chronicle my path into machine learning and data science. I've been working through a few tutorials but now it's time to grab hold of a few projects to call my own and actually make a difference.
 
 Okay, that's a little dramatic. But I will take on machine learning projects with practical applications and build a portfolio of work. Maybe this will be a simple hobby of mine. Who knows, it could always lead to more.
 
