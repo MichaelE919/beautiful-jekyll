@@ -13,13 +13,10 @@ RUN gem install therubyracer
 RUN gem install json
 
 RUN gem install minitest
-RUN gem install colorator
-RUN gem install ffi
 RUN gem install pkg-config
 RUN gem install ethon
 RUN gem install nokogiri
 RUN gem install html-pipeline
-RUN gem install jekyll-watch
 
 ADD ./ /home/Jekyll
 
@@ -33,7 +30,7 @@ CMD ["bundle install \
 --force_polling --watch"]
 
 # to build:
-# docker build -t michaele919/jekyll:1.0 .
+# docker build -t michaele919/jekyll:2.0 .
 
 # suggested run command:
-# docker run --name jekyll -p 4000:4000 -v `pwd`:/home/Jekyll michaele919/jekyll:1.0
+# docker run --name jekyll -p 4000:4000 -v `pwd`:/home/Jekyll michaele919/jekyll:2.0
