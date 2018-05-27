@@ -2,7 +2,6 @@
 layout: post
 title: First post!
 image: /img/hello_world.jpeg
-tags: [first-post, exciting-stuff]
 ---
 
 This is my first post, how exciting! Actually no, that's not true. About nine years ago, I started blogging about stuff, mostly politics. Truthfully, it was *only* about politics. I was really passionate about that back then. Nine years later, I still believe what I believe, but I'm just not as passionate about it that I want to spend time rambling about it.

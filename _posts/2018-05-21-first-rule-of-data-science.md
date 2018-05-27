@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First Rule of Data Science
-tags: [humor]
 ---
 
 Make sure you have data.
