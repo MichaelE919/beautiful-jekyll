@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy New Year! (And where have I been)
+title: Happy New Year! (And where have I been?)
 ---
 
 This is probably too late for your traditional New Year post; however, it's my first post of 2019, so there you go. It's also the first since last summer, and a lot has happened since my last post. About that... 
