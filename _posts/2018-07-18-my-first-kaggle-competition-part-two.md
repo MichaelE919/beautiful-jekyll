@@ -29,7 +29,7 @@ Using this feature set, my model did a horrible job at predicting upsets (only a
 After the submission deadline and while the tournament was playing out, I did a little reading and continued to tinker with my model. After some research I added 
 * [Adjusted Offensive Efficiency](https://cbbstatshelp.com/efficiency/adjusted-efficiency/)
 * [Adjusted Defensive Efficiency](https://cbbstatshelp.com/efficiency/adjusted-efficiency/)
-* [Adjusted Efficiency Margin](https://cbbstatshelp.com/ratings/adjem/)
+* [Adjusted Efficiency Margin](https://cbbstatshelp.com/ratings/adjusted-efficiency-margin/)
 * Offensive Rebound to Turnover Margin
 
 I found that adding these four features made for a much better performing model, predicting many of the actual upsets.
